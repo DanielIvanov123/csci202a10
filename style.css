@@ -1,0 +1,10 @@
+.my-iframe {
+    display: none;
+    width: 100%;
+    height: 80vh;
+}
+
+#description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
